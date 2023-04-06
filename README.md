@@ -1,6 +1,6 @@
 ## End to End AIML Project
 ```
-Regression Project
+Regression Model
 
 ```
 ## Create an Environment
