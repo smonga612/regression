@@ -1,5 +1,7 @@
 ## End to End ML Project
-
+```
+Regression Project
+```
 ## Create an Environment
 ```
 conda create -p venv python==3.8
